@@ -1,3 +1,5 @@
+// This program uses a for loop to count from 0 to 999.
+
 #include <iostream>
 using namespace std;
 

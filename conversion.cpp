@@ -1,3 +1,6 @@
+// An example program from "Beginning Programming with C++ for Dummies". It
+// converts celsius to fahrenheit. 
+
 //#include <cstdio>
 //#include <cstdlib>
 #include <iostream>

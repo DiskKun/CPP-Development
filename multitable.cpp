@@ -1,4 +1,5 @@
 // UNFINISHED (DON'T COMPILE)
+// Prints a multiplication table.
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,6 @@
-// WARNING: This will probably crash your command line. Use with caution.
+// This program will print zeros and ones, along with ASCII character 7
+// indefinitely.
+
 #include <iostream>
 using namespace std;
 

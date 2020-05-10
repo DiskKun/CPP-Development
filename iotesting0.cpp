@@ -1,3 +1,5 @@
+// Basic input testing. Enter a number, it will return the number.
+
 #include <iostream>
 using namespace std;
 

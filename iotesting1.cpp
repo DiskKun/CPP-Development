@@ -1,3 +1,6 @@
+// Slightly more advanced input testing. Enter a string, it will return a
+// string.
+
 #include <iostream>
 using namespace std;
 

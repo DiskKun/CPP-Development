@@ -7,7 +7,7 @@ using namespace std;
 int main() {
   while (true) {
     cout << "\a";
-    cout << rand() % 2;
+    //cout << rand() % 2;
   }
   return 0;
 }

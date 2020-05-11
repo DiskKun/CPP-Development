@@ -42,7 +42,7 @@ int main() {
       break;
       // etc. etc.
     default:
-      cout << "Nope, not a number." << endl;
+      cout << "Nope, not a valid number." << endl;
   }
   return 0;
 }

